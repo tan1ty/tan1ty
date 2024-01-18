@@ -1,4 +1,4 @@
-### Hi there, I'm Tetiana 
+### Hi there!
 
 #### I'm currently honing my skills in HTML, CSS, JavaScript, and learning frameworks like React. Here you'll find projects I've worked on.
 
